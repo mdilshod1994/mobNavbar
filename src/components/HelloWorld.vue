@@ -1,4 +1,8 @@
 <template>
+<div class="nav">
+  <h1>
+    We know CSS like our 5 finger!!!
+  </h1>
   <div class="mob_nav">
     <ul>
       <li class="list active">
@@ -54,6 +58,8 @@
       <div class="indicator"></div>
     </ul>
   </div>
+</div>
+  
 </template>
 
 <script>
